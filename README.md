@@ -50,7 +50,7 @@ Thank you for considering contributing. You are always welcome to contribute...
 
 ## Security Vulnerabilities
 
-If you discover a security vulnerability within Laravel, please send an e-mail to Anwar Jahid [ajr.jahid@gmail.com](mailto:ajr.jahid@gmail.com). All security vulnerabilities will be promptly addressed.
+If you discover a security vulnerability within ``Laravel Inertia React Boilerplate``, please send an e-mail to ``Anwar Jahid`` [ajr.jahid@gmail.com](mailto:ajr.jahid@gmail.com). All security vulnerabilities will be promptly addressed.
 
 ## License
 
