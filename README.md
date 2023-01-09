@@ -1,10 +1,11 @@
-<p align="center"><a href="https://anwarjahid.com" target="_blank"><img src="https://avatars.githubusercontent.com/u/20917263?v=4" width="400" alt="Laravel Logo"></a></p>
-
 <p align="center">
+***
 <a href="https://fiver.com/ringkubd">Fiverr.</a>
-<a href="https://www.upwork.com/freelancers/~012c99718d2b320766">
-Upwork
-</a>
+**
+<a href="https://www.upwork.com/freelancers/~012c99718d2b320766">Upwork</a>
+**
+<a href="https://anwarjahid.com">My Website</a>
+***
 </p>
 
 ## Laravel Inertia React Boilerplate
