@@ -42,7 +42,7 @@ php artisan ser
 npm install
 ```
 #### *** Note: First user will get all access by default.
-If you want to change please check ``app/Services/AuthServiceProvider.php``
+If you want to change please check ``app/Providers/AuthServiceProvider.php``
 ***
 ## Contributing
 
